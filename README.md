@@ -1,7 +1,7 @@
 # vanilla-axios-sample
 vanilla jsでのaxiosのサンプル
 
-# set up
+### set up
 npm install
-# run
+### run
 npm run dev
